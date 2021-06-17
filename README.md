@@ -2,7 +2,7 @@
 RS-232 interface for wireless data acquisition of lab instruments using a Wemos D1 Mini microcontroller
 
 ## Goal
-Design an open source board with firmware compatible for data acquisition for a range of commonly used lab instruments.
+[Design an open source board with firmware compatible for data acquisition for a range of commonly used lab instruments](https://www.opencell.bio/summerprojects)
 
 Using the [Seeedstudio RS-232 to TTL converter](https://wiki.seeedstudio.com/RS-232_To_TTL_Conveter-MAX3232IDR/) schematic as reference
 - licensed under: https://creativecommons.org/licenses/by/4.0/
@@ -25,3 +25,4 @@ Initial prototyping cost: ~£10
 
 ### Other considerations
 - Power: LiPo batteries vs USB vs wall socket
+- integrating into existing [OpenCell fermentrack](https://github.com/tmopencell/sudo.bio) system
