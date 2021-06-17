@@ -7,6 +7,8 @@ Design an open source board with firmware compatible for data acquisition for a 
 Using the [Seeedstudio RS-232 to TTL converter](https://wiki.seeedstudio.com/RS-232_To_TTL_Conveter-MAX3232IDR/) schematic as reference
 - licensed under: https://creativecommons.org/licenses/by/4.0/
 
+![RS232 to TTL schematic](https://github.com/Daara-S/rs232-iot/blob/c448758bb464558fb18fa813880b34b3b7868661/rs232/RS232%20to%20TTL%20Converter%20schematic.PNG)
+
 Initial prototyping cost: ~£10
 - Wemos D1 Mini: ~£5
     - [Amazon reference](https://www.amazon.co.uk/AZDelivery-Development-ESP8266EX-Compatible-Micropython/dp/B08BTH77F3/ref=sr_1_3?dchild=1&keywords=wemos%2Bd1%2Bmini&qid=1623942509&sr=8-3&th=1)
