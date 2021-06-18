@@ -19,7 +19,7 @@ Initial prototyping cost: ~£10
 1. Research RS-232 baud rates and communication specifics of different lab instruments
 2. Write a program in Arduino to confirm communication over all instrument RS-232 ports
 4. Create main MQTT program to parse RS-232 data over WiFi
-    * Using [Arduino-MQTT](https://github.com/256dpi/arduino-mqtt) library
+    * Using [EspMQTTClient](https://github.com/plapointe6/EspMQTTClient) library
 5. Produce an RS-232 to TTL PCB shield for the Wemos D1 Mini using KiCAD
 6. (optional) Design a 3D printed enclosure for the board in Fusion 360
 
