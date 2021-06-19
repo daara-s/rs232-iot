@@ -22,8 +22,10 @@ Initial prototyping cost: ~£10
 - Power: LiPo batteries vs USB vs wall socket
 - integrating into existing [OpenCell fermentrack](https://github.com/tmopencell/sudo.bio) system
 
-### References
-[Seeedstudio RS-232 to TTL converter](https://wiki.seeedstudio.com/RS-232_To_TTL_Conveter-MAX3232IDR/) schematic
-- licensed under: https://creativecommons.org/licenses/by/4.0/
+### RS-232 Shield
+Shield board for the Wemos D1 Mini
+![schematic](RS232-Shield/schematic.png)
 
-![RS232 to TTL schematic](https://github.com/Daara-S/rs232-iot/blob/c448758bb464558fb18fa813880b34b3b7868661/rs232/RS232%20to%20TTL%20Converter%20schematic.PNG)
+### References
+[Seeedstudio RS-232 to TTL converter](https://wiki.seeedstudio.com/RS-232_To_TTL_Conveter-MAX3232IDR/)
+- licensed under: https://creativecommons.org/licenses/by/4.0/
