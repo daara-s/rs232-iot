@@ -133,7 +133,7 @@ NoConn ~ 7950 3800
 NoConn ~ 7950 4000
 NoConn ~ 7950 4200
 $Comp
-L MCU_Module:WeMos_D1_mini U1
+L shieldLibrary:WeMos_D1_mini U1
 U 1 1 60CF9E07
 P 1600 3950
 F 0 "U1" H 1350 3150 50  0000 C CNN
