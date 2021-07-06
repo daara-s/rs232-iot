@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name shieldLibrary)(type Legacy)(uri C:/Users/daara/Documents/GitHub/rs232-iot/RS232-Shield/shieldLibrary.lib)(options "")(descr ""))
+)

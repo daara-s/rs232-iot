@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name RS232-shield)(type KiCad)(uri C:/Users/daara/Documents/GitHub/rs232-iot/RS232-Shield/RS232-Shield.pretty)(options "")(descr ""))
+)

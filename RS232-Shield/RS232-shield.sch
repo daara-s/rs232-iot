@@ -138,7 +138,7 @@ U 1 1 60CF9E07
 P 1600 3950
 F 0 "U1" H 1350 3150 50  0000 C CNN
 F 1 "WeMos_D1_mini" V 1250 3550 50  0000 C CNN
-F 2 "Module:WEMOS_D1_mini_light" H 1600 2800 50  0001 C CNN
+F 2 "RS232-shield:WEMOS_D1_mini_light" H 1600 2800 50  0001 C CNN
 F 3 "https://wiki.wemos.cc/products:d1:d1_mini#documentation" H -250 2800 50  0001 C CNN
 	1    1600 3950
 	1    0    0    -1  
